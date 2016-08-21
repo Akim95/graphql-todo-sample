@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/pre-dexed/debug/classes-d0333cb823f072badd0485d64e39523f107cf8a7.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/exploded-aar/todoAppReactNative/react-native-fs/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="12be4fd0c8f8da071a67a9ad49438aeaf6bd77c0">
+        <dex dex="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/pre-dexed/debug/classes-97e333a33cb1750d7597092949b99b8a81be38a2.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-6acafb5a24ecc573d5100b16e4e64730b96e83ab.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/pre-dexed/debug/classes-3b9e875761577b2c7d5b571b54977fc69c7d2a37.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.31.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="841543b0cb82ebcb59e60c73c4514afa57888ca0">
+        <dex dex="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-d42384f8c025f107b1aebffbc1a138a3223054e6.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-a6e2f13ddd2f40e2ce2fc3221e15153a8e5db903.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-8aee622854a103e20daca771c728ad1e058a6015.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/pre-dexed/debug/classes-b009a870fc599c63196aa95c3ebf6f73785bbd32.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-b8101b73db1d7b0f2def33e0aa488f0e952c5447.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/pre-dexed/debug/classes-02b6cb1efaccaa4160967926608a1e974f2e3a21.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-c25e40cc85889d9fa8dbaad7a2d3f91bcad9fae9.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/pre-dexed/debug/classes-7225021ab1840d1c6e76b5667628e93e7005152a.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/pre-dexed/debug/classes-dedb9b80bf2cf45a9ca3c61499728591767993cb.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-f4cef20489b023388a699f811216f2e7a0203340.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-15ee5a311d7fd929d0685d25a9e0b4bee5d5fd37.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/pre-dexed/debug/classes-90480ced3ddf8d29f8f827b0ce6692a0a3aa9406.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/pre-dexed/debug/classes-885ee168e1e44b86e537ad8724ec3304964e39fd.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/pre-dexed/debug/classes-c72f931bd7aecb7fce4fad6c84e34f3553b880a9.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/exploded-aar/todoAppReactNative/react-native-fs/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="62b957b3edb4c52f57852035f581bd86be0d6c22">
+        <dex dex="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/pre-dexed/debug/classes-bf366e5c42f9af8b5477552975079adea8f58581.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/pre-dexed/debug/classes-7d5f7989eed814300dab52f515b95ef90da5c68c.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/pre-dexed/debug/classes-41f3cbf6bc1626b064a282512465f200481f0b5c.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/pre-dexed/debug/classes-95ba2fe5c688d9e08cb48ea87b265c67d8a86def.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.31.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="841543b0cb82ebcb59e60c73c4514afa57888ca0">
+        <dex dex="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-37eb10c90ecf8e262c7e3d7e1eb5bee9cde77222.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/pre-dexed/debug/classes-3bd5d6db60a646239c249cbfe7f4cb88242f7405.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/pre-dexed/debug/classes-6f4560a4c36f7b8fea72104d0e32181f06163f7e.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/pre-dexed/debug/classes-e05ab9bacd1f889bbe537b408eb7b09bc848f8aa.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-40371647465b65041d898d9e0178228115e3b5c0.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/pre-dexed/debug/classes-2ddabc774784820f624a359fd3fafad39c8c407a.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/pre-dexed/debug/classes-46829ffcba94dbe70a391a1bda93bbcbd90f5f27.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/pre-dexed/debug/classes-1dbe3e3f5bd45228f79e18f04ae281e79c526bf8.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-56ac505a7bc41a26e975a2dda126ed456614edee.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.31.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8505ca79a0abc3ef116f9c197b7d721ee2453066">
+        <dex dex="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/pre-dexed/debug/classes-eb34d3c05a47a7c5ae9849cd85de64239a30c946.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.31.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8505ca79a0abc3ef116f9c197b7d721ee2453066">
+        <dex dex="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/pre-dexed/debug/classes-a8345d99bac5342244b9dbaa77d70be0ca50662d.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-263709584fd2dabbd16ef04c8c30960e9f5abc90.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/pre-dexed/debug/classes-ea16e5066b576917c99c68ca7b40d90893c6774d.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/hack1m/todoAppReactNativeApollo/android/app/build/intermediates/pre-dexed/debug/classes-064ac16e277ee7fbc8bbecd54193e32d2ecd0159.jar" />
+    </item>
+    <item
+        jar="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/hack1m/todoAppReactNative/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-7a7ee5bb311c8c35c3104be571f733c1b1d8e15e.jar" />
+    </item>
+
+</items>

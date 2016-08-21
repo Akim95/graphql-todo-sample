@@ -1,11 +1,11 @@
 ## TODO GRAPHQL SERVER
 
-1. Install dependencies:
+#### Install dependencies:
 ```
   npm install
 ```
 
-2. Replace mysql/mariadb user and password:
+#### Replace mysql/mariadb user and password:
 ```javascript
 // connectors.js
 const db = new Sequelize('Todos', '<user>', '<password>', {
@@ -14,7 +14,7 @@ const db = new Sequelize('Todos', '<user>', '<password>', {
 });
 ```
 
-3. Start server:
+#### Start server:
 ```
   npm start
 ```

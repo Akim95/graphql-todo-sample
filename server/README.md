@@ -2,6 +2,7 @@
 
 #### Install dependencies:
 ```
+  yarn install or
   npm install
 ```
 
@@ -16,6 +17,7 @@ const db = new Sequelize('Todos', '<user>', '<password>', {
 
 #### Start server:
 ```
+  yarn start or 
   npm start
 ```
 

@@ -3,6 +3,9 @@
 #### Install dependencies:
 ```
 cd todoAppReactNative
+
+// install
+yarn install or
 npm install
 ```
 
@@ -14,6 +17,6 @@ const networkInterface =  createNetworkInterface('http://<here>/graphql');
 
 #### Start:
 ```
-// working well on android platform only
-react-native run-android
+react-native run-android or
+react-native run-ios
 ```

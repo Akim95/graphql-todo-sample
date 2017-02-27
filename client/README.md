@@ -2,6 +2,7 @@
 
 #### Install dependencies:
 ```
+cd todoAppReactNative
 npm install
 ```
 
